@@ -1,0 +1,5 @@
+{
+  "URLBlocklist": ["https://nijisanji.net/",
+  "#https://www.youtube.com/",
+  "https://www.nicovideo.jp/","#https://drive.google.com/drive/","https://soundcloud.com/","chrome-extension://pncfbmialoiaghdehhbnbhkkgmjanfhe/options.html","https://www.twitch.tv/","https://live.fc2.com/","https://live.nicovideo.jp/","#https://twitcasting.tv/","https://twitter.com/","#https://japaneseasmr.com/","https://www.nicogame.info/","chrome://extensions/?id=nfkmalbckemmklibjddenhnofgnfcdfp","chrome://extensions/?id=bbeaicapbccfllodepmimpkgecanonai","chrome-extension://bbeaicapbccfllodepmimpkgecanonai/src/ui/options.html","chrome-extension://nfkmalbckemmklibjddenhnofgnfcdfp/ui/config/html/config.html","chrome://extensions/?id=bbeaicapbcc*","chrome://extensions/?id=bbeaicapbccfllodepmimpkgecanonai*","chrome://extensions/?id=*","chrome://extensions"]
+}
